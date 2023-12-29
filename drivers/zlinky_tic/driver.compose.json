@@ -1,5 +1,7 @@
 {
-  "name": { "en": "ZLinky_TIC" },
+  "name": {
+    "en": "ZLinky_TIC"
+  },
   "class": "other",
   "capabilities": [
     "price_option_capability",
@@ -40,7 +42,9 @@
   },
   "zigbee": {
     "manufacturerName": "LiXee",
-    "productId": ["ZLinky_TIC"],
+    "productId": [
+      "ZLinky_TIC"
+    ],
     "endpoints": {
       "1": {
         "clusters": [
@@ -57,5 +61,8 @@
         ]
       }
     }
-  }
+  },
+  "connectivity": [
+    "zigbee"
+  ]
 }

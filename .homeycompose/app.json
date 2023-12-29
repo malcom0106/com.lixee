@@ -39,6 +39,9 @@
     "developers": [
       {
         "name": "Chamois Mathieu"
+      },
+      {
+        "name": "Bakkhuzz"
       }
     ],
     "translators": [
@@ -47,5 +50,6 @@
       }
     ]
   },
-  "homepage": "https://lixee.fr/"
+  "homepage": "https://lixee.fr/",
+  "homeyCommunityTopicId": null
 }
